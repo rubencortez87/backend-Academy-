@@ -1,0 +1,25 @@
+terminal command
+cd: change directory
+mkdir: new folder
+touch: new file
+ls: list document and file
+file: info of the file
+rm: remove file
+tail-n: last lines of the file
+cat: open file and read only
+chmod: change permits in the file
+grep: finds files in a directory based on keywords
+zip: compress files
+vim: file editor
+cp: copy file
+mv: moves files
+pwd: prints current path
+whoami: prints current logged user
+rmdir: remove an empty directory
+rm -r: remove nested directories
+sudo: execute commands with superuser privileges
+top: list actively running computer proceses
+q: quit sub-screen and retur to terminal
+clear: clear the terminal screen of all previous commands
+man: show manual page for a command
+exit: the exit command
