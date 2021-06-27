@@ -23,3 +23,4 @@ q: quit sub-screen and retur to terminal
 clear: clear the terminal screen of all previous commands
 man: show manual page for a command
 exit: the exit command
+ps: list proceses or commands currently running
