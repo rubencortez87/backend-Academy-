@@ -1,4 +1,9 @@
-# backend-Academy-
-Hello my name ir Ruben Cortez
-This is my repository for the Backend Academy
-Im practicing doing my repository
+# backend-Academy-Git/GitHub
+
+## Getting Started
+
+### Pre-requisites
+Git bash 
+GitHub
+### Author
+Ruben Cortez
